@@ -1,10 +1,11 @@
 body {
    margin: 0;
 }
-  p {
+  h1 {
     color: white;
     text-align: center;
     font-family: monospace;
+    letter-spacing: 3px; 
   }
  .container {
    align-items: center;
